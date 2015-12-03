@@ -1,0 +1,14 @@
+a {
+  display: block;
+  width: 100px;
+  border: 1px solid blue;
+}
+a.active {
+  border: 0px;
+}
+a:hover {
+  cursor: pointer;
+}
+a img {
+  display: block;
+}
